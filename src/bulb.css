@@ -1,0 +1,24 @@
+.wrap {
+  height: 90vh;
+  width: 25vw;
+  display: inline-block;
+}
+
+.bulb {
+  height: 40vh;
+  width: 19vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10vh;
+  border-radius: 50%;
+}
+
+.switch {
+  margin-top: auto;
+  background-color: red;
+  height: 5vh;
+  width: 10vw;
+  border-radius: 10%;
+  margin-top: 20vh;
+  margin-left: 7vw;
+}
